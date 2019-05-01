@@ -11,7 +11,5 @@ public class IdEntity implements Serializable {
 
     private int version;
 
-    private int aaaaa;
-    private int ccc;
-    private int ddd;
+    private int aal;
 }
