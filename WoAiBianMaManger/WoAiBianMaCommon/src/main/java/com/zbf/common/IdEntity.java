@@ -10,6 +10,8 @@ public class IdEntity implements Serializable {
     private Long id;
 
     private int version;
+    
+    private int aa;
 
     private int ccc;
 }
