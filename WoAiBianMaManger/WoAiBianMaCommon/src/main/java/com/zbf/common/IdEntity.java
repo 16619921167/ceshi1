@@ -23,4 +23,6 @@ public class IdEntity implements Serializable {
 
     private int aaa;
 
+    private String aaaaaaaaaaaaaaaaa;
+
 }
